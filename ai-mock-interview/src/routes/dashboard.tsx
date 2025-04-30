@@ -62,11 +62,11 @@ export const Dashboard = () => {
             <Plus /> Add New
           </Button>
         </Link>
-        <Link to="https://your-resume-builder-url.com" target="_blank" rel="noopener noreferrer" className="ml-4">
+{/*         <Link to="https://your-resume-builder-url.com" target="_blank" rel="noopener noreferrer" className="ml-4">
         <Button size={"sm"} variant="outline">
           Build Your Resume
         </Button>
-        </Link>
+        </Link> */}
       </div>
 
       <Separator className="my-8" />
